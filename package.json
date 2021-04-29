@@ -1,0 +1,10 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "This is tutorial o The Full Stack Junkie eCommerce with Reactjs Redux Nodejs Express MongoDb and many more",
+  "main": "index.js",
+  "repository": "https://github.com/yousuf4you/e-commerce.git",
+  "author": "yousuf4you",
+  "license": "MIT",
+  "private": true
+}
